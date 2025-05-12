@@ -28,6 +28,12 @@ Here are some ideas to get you started:
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 
+## 📊 GitHub Stats  
+<img height="150" align="center" src="https://github-readme-stats.vercel.app/api?username=DanG17112004&show_icons=true&theme=highcontrast"> <img height="150" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DanG17112004&theme=highcontrast">
+
+
+
+
 <div align="center">
   <a href="https://open.spotify.com/playlist/2iq6BXF5WadhBVa8YELEpr">
     <img src="https://img.shields.io/badge/Listening_To-Mind_Relief_Music-0d1117?style=for-the-badge&logo=spotify&logoColor=white&labelColor=1DB954" alt="Spotify Playlist"/>
