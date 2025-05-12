@@ -1,10 +1,12 @@
+![Profile Hits](https://komarev.com/ghpvc/?username=DanG17112004)
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hey+there!+%F0%9F%91%8B+Welcome+to+my+space+;%F0%9F%8E%B6+Music+Producer+%7C+%F0%9F%9A%80+CSE+Student+%7C+%F0%9F%A7%A0+Problem+Solver)](https://git.io/typing-svg)
 
 ⚡ About Me 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 🔹 CSE Student (S4) passionate about algorithms, optimization, and AI-powered solutions.
 
-🔹 Founder of DXN Musicals, crafting immersive soundscapes & branding experiences. 
+🔹 Founder of DxN Musicals, crafting immersive soundscapes & branding experiences. 
 
 🔹 Creative + Analytical – bridging structured thinking with artistic innovation. 
 
@@ -25,7 +27,7 @@
 
 
 📊 GitHub Stats
-<p align="center"> <img height="150" src="https://github-readme-stats.vercel.app/api?username=DanG17112004&show_icons=true&theme=radical"> <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=DanG17112004&theme=radical"> </p>
+<p align="center"> <img height="150" src="https://github-readme-stats.vercel.app/api?username=DanG17112004&show_icons=true&theme=radical">         <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=DanG17112004&theme=radical"> </p>
 
 🌎 Connect With Me
 ### Connect with Me:
