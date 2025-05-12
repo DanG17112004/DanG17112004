@@ -27,3 +27,14 @@ Here are some ideas to get you started:
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/karthik_kk708)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
+
+<div align="center">
+  <a href="https://open.spotify.com/playlist/2iq6BXF5WadhBVa8YELEpr">
+    <img src="https://img.shields.io/badge/Listening_To-Mind_Relief_Music-0d1117?style=for-the-badge&logo=spotify&logoColor=white&labelColor=1DB954" alt="Spotify Playlist"/>
+  </a>
+</div>
+
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:00C9FF,100:92FE9D" width="100%">
+</div>
