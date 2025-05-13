@@ -13,7 +13,14 @@
 🔹 Constant Learner – diving deep into Python, Java, and advanced algorithmic challenges.
 
 🌟 My Tech & Creative Playground
-💻 Programming: Java | Python | Algorithm Analysis | Recurrence Relations | Optimization 🎶 Music Production: Branding | Sonic Identity | Tagline Innovation 🎨 Design: Logo Creation | Concept Art | Digital Identity
+
+💻 Programming:
+
+Java | Python | Algorithm Analysis | Recurrence Relations | Optimization 
+
+🎶 Music Production:
+
+Branding | Sonic Identity | Tagline Innovation 🎨 Design: Logo Creation | Concept Art | Digital Identity
 
 ## 🚀 Tech Stack  
 ### 💻 Programming & Databases
