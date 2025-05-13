@@ -20,7 +20,11 @@ Java | Python | Algorithm Analysis | Recurrence Relations | Optimization
 
 🎶 Music Production:
 
-Branding | Sonic Identity | Tagline Innovation 🎨 Design: Logo Creation | Concept Art | Digital Identity
+Branding | Sonic Identity | Tagline Innovation 
+
+🎨 Design:
+
+Logo Creation | Concept Art | Digital Identity
 
 ## 🚀 Tech Stack  
 ### 💻 Programming & Databases
