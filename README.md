@@ -4,7 +4,7 @@
 
 ⚡ About Me 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
-🔹 CSE Student (S4) passionate about algorithms, optimization, and AI-powered solutions.
+🔹 CSE Student (S6) passionate about algorithms, optimization, and AI-powered solutions.
 
 🔹 Founder of DxN Musicals, crafting immersive soundscapes & branding experiences. 
 
