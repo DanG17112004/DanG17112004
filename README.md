@@ -60,13 +60,10 @@ Let’s build, create, and push the limits of tech & sound together! 🚀🎶
   <a href="https://open.spotify.com/playlist/3d92jnPfKtF7Bnei1idnPR" target="_blank">
     <img 
       src="https://upload.wikimedia.org/wikipedia/commons/8/84/Spotify_icon.svg"
-      width="120"
+      width="50"
       alt="Open Spotify Playlist">
   </a>
 </div>
-
-
-
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:00C9FF,100:92FE9D" width="100%">
