@@ -57,15 +57,14 @@ Let’s build, create, and push the limits of tech & sound together! 🚀🎶
 🎧 Currently Vibing To:
 
 <div align="center">
-  <iframe
-    src="https://open.spotify.com/embed/playlist/3d92jnPfKtF7Bnei1idnPR"
-    width="300"
-    height="380"
-    frameborder="0"
-    allowtransparency="true"
-    allow="encrypted-media">
-  </iframe>
+  <a href="https://open.spotify.com/playlist/3d92jnPfKtF7Bnei1idnPR" target="_blank">
+    <img 
+      src="https://upload.wikimedia.org/wikipedia/commons/8/84/Spotify_icon.svg"
+      width="120"
+      alt="Open Spotify Playlist">
+  </a>
 </div>
+
 
 
 
